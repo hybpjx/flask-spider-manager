@@ -1,6 +1,3 @@
-[toc]
-详见GitHub 文档
-
 # 前端部署
 安装vue项目
 `vue create front`
